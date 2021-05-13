@@ -53,7 +53,7 @@ int main()
 {
   
   ld x0; // initial values for newton's method
-  x0 = 5
+  x0 = 5;
   newtons(x0);
 
   
